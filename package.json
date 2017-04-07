@@ -5,10 +5,12 @@
   "repository": {},
   "license": "MIT",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack --watch",
+    "serv": "static build"
   },
   "devDependencies": {
     "html-webpack-plugin": "^2.28.0",
+    "node-static": "^0.7.9",
     "webpack": "^2.3.3"
   }
 }
