@@ -11,6 +11,8 @@
   "devDependencies": {
     "html-webpack-plugin": "^2.28.0",
     "node-static": "^0.7.9",
+    "pug": "^2.0.0-beta11",
+    "pug-loader": "^2.3.0",
     "webpack": "^2.3.3"
   }
 }
