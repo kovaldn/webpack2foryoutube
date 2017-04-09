@@ -5,7 +5,8 @@
   "repository": {},
   "license": "MIT",
   "scripts": {
-    "start": "webpack --watch",
+    "start": "webpack-dev-server --env development",
+    "build": "webpack --env production",
     "serv": "static build"
   },
   "devDependencies": {
@@ -13,6 +14,7 @@
     "node-static": "^0.7.9",
     "pug": "^2.0.0-beta11",
     "pug-loader": "^2.3.0",
-    "webpack": "^2.3.3"
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
   }
 }

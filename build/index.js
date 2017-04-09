@@ -94,7 +94,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 var menu = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__components_menu_menu__["a" /* default */])(['Главная','Блог'], 'menu');
 document.body.appendChild(menu);
 
-console.log('in index.js')
+console.log('in index.js');
 
 /***/ })
 /******/ ]);
