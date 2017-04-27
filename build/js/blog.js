@@ -1,0 +1,1 @@
+webpackJsonp([1],{3:function(e,n){},6:function(e,n,o){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var c=o(3),i=(o.n(c),o(0)),t=(o.n(i),o(2)),u=o.i(t.a)(["Главная","Блог"],"menu");document.body.appendChild(u),console.log("in blog.js")}},[6]);
