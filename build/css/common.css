@@ -426,7 +426,8 @@ template {
   display: none;
 }
 ul {
-  border: 1px solid #777; }
+  border: 1px solid #777;
+  background: url(../images/menu.svg) no-repeat; }
   ul li {
     display: inline-block;
     padding: 5px 10px;
